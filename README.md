@@ -5,3 +5,5 @@ A series of notebooks created for the purpose of exploring brachytherapy dicom f
  * [Displaying CT](https://rawgit.com/SimonBiggs/brachytherapy-dicom-utilities/master/Displaying%20CT.html)
  * [Displaying dose](https://rawgit.com/SimonBiggs/brachytherapy-dicom-utilities/master/Displaying%20dose.html)
  * [Displaying structure sets](https://rawgit.com/SimonBiggs/brachytherapy-dicom-utilities/master/Displaying%20structure%20sets.html)
+
+Please let me know if these links go down ([mail@simonbiggs.net](mailto:mail@simonbiggs.net)).
